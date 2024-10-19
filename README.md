@@ -16,6 +16,7 @@ Este projeto é uma página de apresentação para a empresa **Acabamentos J.A**
 - **Design Responsivo**: A página é otimizada para visualização em dispositivos móveis e desktop, garantindo uma experiência de usuário consistente.
 
 ## Estrutura do Projeto
+link para visualizar o projeto https://acabamentos-j-a.vercel.app/
 
 O projeto é organizado da seguinte forma:
 
